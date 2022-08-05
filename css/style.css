@@ -48,6 +48,7 @@ body
     width: 500px;
     height: 300px;
     justify-content: space-evenly;
+    box-shadow: 0 5px 17px 0 hsl(217, 19%, 38%);
 }
 
 h2
